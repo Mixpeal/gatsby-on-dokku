@@ -18,7 +18,7 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.0"
   },
-  "devDependencies": {
+  "devDependencies": { 
     "prettier": "^1.16.4"
   },
   "keywords": [

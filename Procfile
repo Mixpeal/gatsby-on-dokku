@@ -1,1 +1,1 @@
-web: gatsby develop -- --port ${PORT?}
+web: node -- --port ${PORT?}

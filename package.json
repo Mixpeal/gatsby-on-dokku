@@ -28,7 +28,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
+  "license": "MIT", 
   "scripts": {
     "build": "gatsby build",
     "heroku-postbuild": "gatsby build",

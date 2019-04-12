@@ -1,1 +1,0 @@
-web: node -- --port ${PORT?}
